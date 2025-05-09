@@ -1,5 +1,5 @@
 # Online_Food_Ordering_System - YumYum
-Online Food Ordering System: A Comprehensive Project Overview
+Online Food Ordering System - YumYum: A Comprehensive Project Overview
 Project Title: Online Food Ordering System
 
 Academic Context:
